@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-15",
+  "runtime": "Local self-hosted fonts; no third-party font service requests.",
+  "coverageFiles": [
+    "src/arrival.ts",
+    "src/audio.ts",
+    "src/bird-health.ts",
+    "src/body-render.ts",
+    "src/body.ts",
+    "src/camera.ts",
+    "src/canopy-render.ts",
+    "src/canopy.ts",
+    "src/config.ts",
+    "src/crown-growth.ts",
+    "src/death-appearance.ts",
+    "src/ecology.ts",
+    "src/environment.ts",
+    "src/exploration.ts",
+    "src/forage-shape.ts",
+    "src/foraging-render.ts",
+    "src/foraging.ts",
+    "src/forest.ts",
+    "src/input.ts",
+    "src/leaf-litter.ts",
+    "src/main.ts",
+    "src/nature-audio.ts",
+    "src/nutrient-transport.ts",
+    "src/page-growth.ts",
+    "src/plant-geometry.ts",
+    "src/recorded-ambience.ts",
+    "src/render.ts",
+    "src/seed-rain.ts",
+    "src/state.ts",
+    "src/surface-relief.ts",
+    "src/transport.ts",
+    "src/vitality.ts",
+    "src/wildlife-render.ts",
+    "src/wildlife.ts",
+    "tmp/pdfs/statement-review/statement.txt"
+  ],
+  "verifiedChineseAndPunctuationCount": 768,
+  "fonts": [
+    {
+      "file": "source-han-serif-sc-ui.woff2",
+      "upstreamFamily": "Source Han Serif SC VF",
+      "cssFamily": "Small Patch Serif SC",
+      "repo": "adobe-fonts/source-han-serif",
+      "commit": "7889f11bf31170b5d092a083b357c8c8130f89e0",
+      "sourcePath": "Variable/WOFF2/OTF/SourceHanSerifSC-VF.otf.woff2",
+      "licensePath": "LICENSE.txt",
+      "modified": true,
+      "sourceURL": "https://raw.githubusercontent.com/adobe-fonts/source-han-serif/7889f11bf31170b5d092a083b357c8c8130f89e0/Variable/WOFF2/OTF/SourceHanSerifSC-VF.otf.woff2",
+      "licenseURL": "https://raw.githubusercontent.com/adobe-fonts/source-han-serif/7889f11bf31170b5d092a083b357c8c8130f89e0/LICENSE.txt",
+      "licenseFile": "source-han-serif-sc-ui.OFL.txt",
+      "bytes": 2239848,
+      "sha256": "5df63b98e1dd726a6d2c0b86afcf6635251a895ad81f06a927f9af09dc531351",
+      "actualNames": {
+        "1": "Small Patch Serif SC",
+        "4": "Small Patch Serif SC Regular",
+        "6": "SmallPatchSerifSC-Regular",
+        "16": "Small Patch Serif SC"
+      },
+      "axes": [
+        {
+          "tag": "wght",
+          "min": 250.0,
+          "default": 250.0,
+          "max": 900.0
+        }
+      ],
+      "unicodeGlyphs": 3979,
+      "coverage": "GB2312 level-one common Chinese ideographs plus project UI text and punctuation at generation time; all Chinese and CJK punctuation in latest src/*.ts and supplied statement verified present.",
+      "missingCurrentChineseCodepoints": [],
+      "modification": "Common-Chinese/UI glyph subset. Adobe glyph designs and variable weight axis preserved; horizontal shaping features retained where present. Internal family and named-instance PostScript prefixes renamed to avoid Adobe reserved name Source."
+    },
+    {
+      "file": "source-han-sans-sc-ui.woff2",
+      "upstreamFamily": "Source Han Sans SC VF",
+      "cssFamily": "Small Patch Sans SC",
+      "repo": "adobe-fonts/source-han-sans",
+      "commit": "a4f7cf94edfb9d7ffbdfc4841de276358bd7e0f2",
+      "sourcePath": "Variable/WOFF2/OTF/SourceHanSansSC-VF.otf.woff2",
+      "licensePath": "LICENSE.txt",
+      "modified": true,
+      "sourceURL": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/a4f7cf94edfb9d7ffbdfc4841de276358bd7e0f2/Variable/WOFF2/OTF/SourceHanSansSC-VF.otf.woff2",
+      "licenseURL": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/a4f7cf94edfb9d7ffbdfc4841de276358bd7e0f2/LICENSE.txt",
+      "licenseFile": "source-han-sans-sc-ui.OFL.txt",
+      "bytes": 1723292,
+      "sha256": "b6e23a5a8c5e80af3bcc2a321a07ed0d978879a9a9b71d8727efcf14722e0449",
+      "actualNames": {
+        "1": "Small Patch Sans SC",
+        "4": "Small Patch Sans SC Regular",
+        "6": "SmallPatchSansSC-Regular",
+        "16": "Small Patch Sans SC"
+      },
+      "axes": [
+        {
+          "tag": "wght",
+          "min": 250.0,
+          "default": 250.0,
+          "max": 900.0
+        }
+      ],
+      "unicodeGlyphs": 4287,
+      "coverage": "GB2312 level-one common Chinese ideographs plus project UI text and punctuation at generation time; all Chinese and CJK punctuation in latest src/*.ts and supplied statement verified present.",
+      "missingCurrentChineseCodepoints": [],
+      "modification": "Common-Chinese/UI glyph subset. Adobe glyph designs and variable weight axis preserved; horizontal shaping features retained where present. Internal family and named-instance PostScript prefixes renamed to avoid Adobe reserved name Source."
+    },
+    {
+      "file": "source-sans-3-latin.woff2",
+      "upstreamFamily": "Source Sans 3 VF",
+      "cssFamily": "Source Sans 3",
+      "repo": "adobe-fonts/source-sans",
+      "commit": "87b37a2daaed80fcb8e8ccb0085c4d72ddade12e",
+      "sourcePath": "WOFF2/VF/SourceSans3VF-Upright.ttf.woff2",
+      "licensePath": "LICENSE.md",
+      "modified": false,
+      "sourceURL": "https://raw.githubusercontent.com/adobe-fonts/source-sans/87b37a2daaed80fcb8e8ccb0085c4d72ddade12e/WOFF2/VF/SourceSans3VF-Upright.ttf.woff2",
+      "licenseURL": "https://raw.githubusercontent.com/adobe-fonts/source-sans/87b37a2daaed80fcb8e8ccb0085c4d72ddade12e/LICENSE.md",
+      "licenseFile": "source-sans-3-latin.OFL.txt",
+      "bytes": 170188,
+      "sha256": "5f16566f7a40d39b339ad26be151fa5a1ab1f0c2574c7a2e619765584a1acbd8",
+      "actualNames": {
+        "1": "SourceSans3VF",
+        "4": "SourceSans3VF",
+        "6": "SourceSans3VF-ExtraLight"
+      },
+      "axes": [
+        {
+          "tag": "wght",
+          "min": 200.0,
+          "default": 200.0,
+          "max": 900.0
+        }
+      ],
+      "unicodeGlyphs": 1615,
+      "modification": "Complete official WOFF2 binary, unchanged."
+    },
+    {
+      "file": "libre-baskerville-latin.woff2",
+      "upstreamFamily": "Libre Baskerville",
+      "cssFamily": "Libre Baskerville",
+      "repo": "google/fonts",
+      "commit": "b3d4b3ba7c4d54f15ed2be72d7f58b9097c3b252",
+      "sourcePath": "ofl/librebaskerville/LibreBaskerville%5Bwght%5D.ttf",
+      "licensePath": "ofl/librebaskerville/OFL.txt",
+      "modified": false,
+      "sourceURL": "https://raw.githubusercontent.com/google/fonts/b3d4b3ba7c4d54f15ed2be72d7f58b9097c3b252/ofl/librebaskerville/LibreBaskerville%5Bwght%5D.ttf",
+      "licenseURL": "https://raw.githubusercontent.com/google/fonts/b3d4b3ba7c4d54f15ed2be72d7f58b9097c3b252/ofl/librebaskerville/OFL.txt",
+      "licenseFile": "libre-baskerville-latin.OFL.txt",
+      "bytes": 64008,
+      "sha256": "1ce91cc87fd7602c7d4d1a925af15aaefbb85acd379dbee9b34a82e653669320",
+      "actualNames": {
+        "1": "Libre Baskerville",
+        "4": "Libre Baskerville Regular",
+        "6": "LibreBaskerville-Regular"
+      },
+      "axes": [
+        {
+          "tag": "wght",
+          "min": 400.0,
+          "default": 400.0,
+          "max": 700.0
+        }
+      ],
+      "unicodeGlyphs": 789,
+      "modification": "Complete official variable font, losslessly WOFF2-compressed with all glyphs and original metadata preserved."
+    }
+  ],
+  "totalFontBytes": 4197336,
+  "reservedNameGuidance": "https://openfontlicense.org/ofl-faq/ (2.5, 2.6, 3.1)"
+}
